@@ -22,11 +22,11 @@
     "lint:clean": "rimraf .eslintcache"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/core": "^3.8.0",
     "@docusaurus/plugin-client-redirects": "^3.7.0",
     "@docusaurus/preset-classic": "^3.7.0",
     "@docusaurus/theme-common": "^3.7.0",
-    "@docusaurus/theme-mermaid": "^3.7.0",
+    "@docusaurus/theme-mermaid": "^3.8.0",
     "@fortawesome/fontawesome-svg-core": "^7.0.0",
     "@fortawesome/free-brands-svg-icons": "^7.0.0",
     "@fortawesome/free-solid-svg-icons": "^7.0.0",
